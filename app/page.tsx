@@ -8,6 +8,7 @@ export default function Home() {
       <p className="text-md">
         This para is a new feature for staging for testing.{" "}
       </p>
+      <p className="text-sm">this para is new in the feature/test-new branch.</p>
     </>
   );
 }
